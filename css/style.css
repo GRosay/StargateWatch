@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body{
+	background-image:url('/img/stargate.jpg');
+	background-size:100% auto;
+}
+
+
+h1 {
+    font-size: 1.4em;
+    margin: 10px 0 20px 10px;
+    color: #6587ac;
+}
+
+#box {
+    display: -webkit-flex;
+    -webkit-align-items: center;
+    width: 100%;
+    height: 100%
+}
+
+.canvas {
+    width: 320px;
+    height: 320px;
+    margin: auto;
+}
