@@ -1,0 +1,11 @@
+.project
+.rds_delta
+.sdk_delta.info
+.tproject
+.settings/.jsdtscope
+.settings/org.eclipse.wst.css.core.prefs
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+.sign/.manifest.tmp
+.sign/author-signature.xml
+.sign/signature1.xml
